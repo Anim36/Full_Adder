@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/shared/untitled folder/project/Full_Adder/Full_Adder.xst" -ofn "/home/ise/shared/untitled folder/project/Full_Adder/Full_Adder.syr" 
+xst -intstyle ise -ifn "/home/ise/shared/untitled folder/project/Full_Adder/Full_Adder.xst" -ofn "/home/ise/shared/untitled folder/project/Full_Adder/Full_Adder.syr" 
